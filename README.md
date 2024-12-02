@@ -88,6 +88,10 @@ Unleash the flavor and spice up your day with Zesty Bites! Whether you're on the
 <span>ui-ux Layout Mobile Desgin</span><br/>
 <a href="" target="_blank" >
 <img src="./img/mobile-ui-ux.png" width="275px"/>
+</a><br/>
+<span>Cover</span><br/>
+<a href="" target="_blank" >
+<img src="./img/cover.png" width="575px"/>
 </a>
  <br />
 <span>Desktop Desgin</span><br/>
@@ -99,10 +103,7 @@ Unleash the flavor and spice up your day with Zesty Bites! Whether you're on the
 <a href="" target="_blank" >
 <img src="./img/mobile-design.png" width="275px"/>
 </a>
-<span>Cover</span><br/>
-<a href="" target="_blank" >
-<img src="./img/cover.png" width="575px"/>
-</a>
+
 
 
 
