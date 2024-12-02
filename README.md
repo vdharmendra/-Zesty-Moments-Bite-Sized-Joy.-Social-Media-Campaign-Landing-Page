@@ -14,7 +14,7 @@
   <li>Banner Background Image Effect, Banner title and Prodcut animation and Slider animation </li>
 </ul>
 
-## Social Media Campaign
+#### Social Media Campaign
 ##### Campaign Name: "Zesty Moments, Bite-Sized Joy"
 <p>Campaign Description: <br />
 Unleash the flavor and spice up your day with Zesty Bites! Whether you're on the go, at work, or hanging out with friends, we bring you fast, flavorful meals that satisfy your cravings in every bite. Join us in celebrating the joy of great food, quick service, and unbeatable taste.</p>
@@ -30,18 +30,13 @@ Unleash the flavor and spice up your day with Zesty Bites! Whether you're on the
   </li>
   <li> Social Media Hashtags:
     <ul>
-      <li>#ZestyBites</li>
-      <li>#BiteSizedJoy</li>
-      <li>#QuickAndZesty</li>
-      <li>#SatisfyWithZesty</li>
+      <li>#ZestyBites, #BiteSizedJoy, #QuickAndZesty, #SatisfyWithZesty</li>
     </ul>
   </li>
 
   <li> Special Promotions:
     <ul>
-      <li>"Zesty Hour": A daily time window where customers get a discount on their orders.</li>
-      <li>Combo Deals: Meal combos to satisfy both hunger and taste buds.</li>
-      <li>Share & Win: Post a photo of your Zesty Bite on social media and tag us to win free meals for a week.</li>
+      <li>"Zesty Hour": A daily time window where customers get a discount on their orders, Combo Deals: Meal combos to satisfy both hunger and taste buds, Share & Win: Post a photo of your Zesty Bite on social media and tag us to win free meals for a week.</li>
     </ul>
   </li>
 
