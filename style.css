@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.menu-bar{
+    min-height: 8%;
+    background: #b41800;
+}
+.menu-bar i{
+    font-size: 32px;
+    color: #fff;
+}
+.menu-bar span{
+    font-size: 32px;
+    font-family: cursive;
+    color: #fff;
+}
+.nav-link{
+    color: #fff;
+}
+.nav-link:hover{
+    color: #000;
+}
+
+.navbar-toggler{
+    color: #fff !important;
+    border: #fff !important;
+}
+/* BANNER SECTION STYLING */
+
+.bannerImg.anim{
+    animation-delay:0.7s;
+}
+.banner-text{
+    margin: 24% auto;
+}
+.banner-text h1{
+    font-size: 30px;
+    color: #6a0e00;
+    font-family: cursive;
+    line-height: 1.4;
+    animation-delay:0.3s;
+    
+}
+.banner-text h1 span{
+    animation-delay:0.2s;
+    font-size: 38px;
+    font-weight: bolder;
+}
+.banner-text a{
+    width: 135px;
+    color: #fff !important;
+    border-radius: 7px;
+    text-decoration: none;
+    padding: 15px 25px;
+    margin: 5% 10px;
+    background: #b41800;
+    display: inline-block;
+    box-shadow: 2px 4px 14px 0px #a18e73;
+    animation-delay:0.4s;
+}
+.banner-text .second-btn{
+    border: 1px solid #b41800 !important;
+    background: transparent !important;
+    color: #555 !important;
+    transition: 0.5s;
+}
+.banner-text .second-btn:hover{
+    background-color: #b41800 !important;
+    color: #fff !important;
+}
+/* FOOTER SECTION */
+
+.footer-widget{
+    
+    min-height: 15%;
+    background-image: linear-gradient(to right, #f6896d, #c10000);
+    padding: 21px 0;
+    display: inline-flex;
+    color: #fff;
+}
+.footer-widget.anim{
+    animation-delay:0.6s;
+}
+.footer-text{
+    padding-left: 25px;
+}
+.footer-widget .bi{
+    font-size: 26px;
+}
+.social-icons{
+    margin: 0 20px;
+}
+.social-icons .bi{
+    padding: 10px;
+}
+
+/* RESPONSIVE STYLING  */
+@media only screen and (max-width:960px) {
+    .footer-widget{
+        background-image: linear-gradient(to top, #f6896d, #c10000);
+    }
+    .banner-text h1 span {
+        font-size: 20px;
+    }
+    .banner-text h1 {
+        font-size: 18px;
+    }
+    .footer{
+        position: fixed;
+        bottom: 0;
+    }
+}
+@media only screen and (max-width:767px) {
+    .bannerImg{
+        width: 70%;
+    }
+    .banner-text {
+        text-align: center;
+        margin: 0 auto 10% auto;
+    }
+    .footer{
+        position: relative;
+    }
+}
+/* ANIMATION EFFECT */
+.anim{
+    opacity: 0;
+    transform: translateY(30px);
+    animation: moveup 0.5s linear forwards;
+}
+.menu-bar.anim{
+    animation-delay: 0.2s;
+}
+@keyframes moveup {
+    100%{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
