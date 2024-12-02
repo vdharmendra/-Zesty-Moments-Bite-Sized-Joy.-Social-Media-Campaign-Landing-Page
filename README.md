@@ -42,9 +42,7 @@ Unleash the flavor and spice up your day with Zesty Bites! Whether you're on the
 
   <li> Target Audience:
     <ul>
-      <li>Young professionals and students</li>
-      <li>Foodies who love quick, flavorful meals</li>
-      <li>People who crave a fast and exciting eating experience</li>
+      <li>Young professionals and students, Foodies who love quick, flavorful meals, People who crave a fast and exciting eating experience</li>
     </ul>
   </li>
 </ul>
